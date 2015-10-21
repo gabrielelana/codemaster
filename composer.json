@@ -1,0 +1,19 @@
+{
+    "name": "gabrielelana/codemaster",
+    "description": "Codemaster Sandbox",
+    "authors": [
+        {
+            "name": "gabriele.lana",
+            "email": "gabriele.lana@cleancode.it"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Codemaster\\": "lib/"
+      }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    }
+}
